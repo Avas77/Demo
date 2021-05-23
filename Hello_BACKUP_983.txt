@@ -8,4 +8,8 @@ I am new boy.
 
 Trying something new.
 
+<<<<<<< HEAD
+Hey Baby U dont have.
+=======
 If words have two meaning.
+>>>>>>> 1cf80f15beddffafbe022287079c993625bd6bd7
